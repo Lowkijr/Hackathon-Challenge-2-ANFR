@@ -17,7 +17,7 @@ Ce projet vise à automatiser l'analyse de la qualité de réception GNSS en tem
 
 ## 📂 Structure du Projet
 
-```text
+```
 Hackathon-Challenge-2-ANFR/
 │
 ├── data/
