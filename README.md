@@ -26,6 +26,7 @@ Hackathon-Challenge-2-ANFR/
 │   └── dashboard.py    # Interface web / Dashboard de supervision
 ├── requirements.txt    # Liste des dépendances Python
 └── README.md           # Documentation du projet
+```
 🚀 Installation & Configuration1. Cloner le dépôt GitBashgit clone <URL_DU_DEPOT>
 cd Hackathon-Challenge-2-ANFR
 2. Créer un environnement virtuel (recommandé)Bashpython -m venv venv
