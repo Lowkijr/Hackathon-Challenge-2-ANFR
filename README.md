@@ -1,5 +1,3 @@
-Voici le bloc de texte au format Markdown exact. Tu peux le copier et le coller directement dans ton fichier `README.md` sur VS Code.
-
 ```markdown
 # Hackathon-Challenge-2-ANFR
 
