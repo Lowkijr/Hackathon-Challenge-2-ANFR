@@ -1,0 +1,1031 @@
+
+<QC Comment="Quality check run by the RGP Dream Team" Date="2026-01-01 00:00:00" DayOfYear="1" Year="2026">
+<station name="AAER">
+<file name="/aaer0010.26o" error="0" interval="30" session="0">
+<control date="Fri Jan 2 16:25:03 2026" level="3">
+<file_statistics latency="03:06:06" size="23968996" time_creation="Fri Jan 2 04:50:04 2026" time_modification="Fri Jan 2 03:05:36 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 23:59:30 2026" epochs="2880" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="31596" obs_have="31554" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="26049" obs_have="26049" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="22644" obs_have="22644" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:02 2026" level="3">
+<file_statistics latency="29 day(s) 01:30:40" size="23971319" time_creation="Sat Jan 31 02:10:16 2026" time_modification="Sat Jan 31 01:30:10 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 23:59:30 2026" epochs="2880" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="31596" obs_have="31554" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="26049" obs_have="26049" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="22644" obs_have="22644" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001a.26o" error="0" interval="1" session="a">
+<control date="Thu Jan 1 01:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29689380" time_creation="Thu Jan 1 01:06:01 2026" time_modification="Thu Jan 1 01:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 00:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="-" obs_have="120690" obs_ratio="0.00"/>
+<mask elevation="10 degrees" obs_expected="-" obs_have="120690" obs_ratio="0.00"/>
+<mask elevation="15 degrees" obs_expected="-" obs_have="120690" obs_ratio="0.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 01:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29689380" time_creation="Thu Jan 1 01:06:01 2026" time_modification="Thu Jan 1 01:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 00:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38348" obs_have="38348" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35464" obs_have="35464" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="33586" obs_have="33586" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 03:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29689380" time_creation="Thu Jan 1 01:06:01 2026" time_modification="Thu Jan 1 01:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 00:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38348" obs_have="38348" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35464" obs_have="35464" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="33586" obs_have="33586" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="29689380" time_creation="Thu Jan 1 01:06:01 2026" time_modification="Thu Jan 1 01:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 00:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38348" obs_have="38348" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35464" obs_have="35464" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="33586" obs_have="33586" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="00:03:08" size="29689380" time_creation="Wed Jan 28 01:50:05 2026" time_modification="Thu Jan 1 01:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 00:00:00 2026" epoch_last="Thu Jan 1 00:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38348" obs_have="38348" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35464" obs_have="35464" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="33586" obs_have="33586" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001b.26o" error="0" interval="1" session="b">
+<control date="Thu Jan 1 02:16:03 2026" level="3">
+<file_statistics latency="00:03:07" size="29383768" time_creation="Thu Jan 1 02:06:03 2026" time_modification="Thu Jan 1 02:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 01:00:00 2026" epoch_last="Thu Jan 1 01:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="35971" obs_have="35970" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31913" obs_have="31913" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29491" obs_have="29491" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 02:41:02 2026" level="3">
+<file_statistics latency="00:03:07" size="29383768" time_creation="Thu Jan 1 02:06:03 2026" time_modification="Thu Jan 1 02:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 01:00:00 2026" epoch_last="Thu Jan 1 01:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="35971" obs_have="35970" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31913" obs_have="31913" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29491" obs_have="29491" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 04:26:03 2026" level="3">
+<file_statistics latency="00:03:07" size="29383768" time_creation="Thu Jan 1 02:06:03 2026" time_modification="Thu Jan 1 02:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 01:00:00 2026" epoch_last="Thu Jan 1 01:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="35971" obs_have="35970" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31913" obs_have="31913" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29491" obs_have="29491" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:07" size="29383768" time_creation="Thu Jan 1 02:06:03 2026" time_modification="Thu Jan 1 02:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 01:00:00 2026" epoch_last="Thu Jan 1 01:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="35971" obs_have="35970" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31913" obs_have="31913" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29491" obs_have="29491" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="00:03:07" size="29383768" time_creation="Wed Jan 28 01:50:07 2026" time_modification="Thu Jan 1 02:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 01:00:00 2026" epoch_last="Thu Jan 1 01:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="35971" obs_have="35970" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31913" obs_have="31913" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29491" obs_have="29491" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001c.26o" error="0" interval="1" session="c">
+<control date="Thu Jan 1 03:16:02 2026" level="3">
+<file_statistics latency="00:03:09" size="29416937" time_creation="Thu Jan 1 03:06:02 2026" time_modification="Thu Jan 1 03:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 02:00:00 2026" epoch_last="Thu Jan 1 02:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43285" obs_have="43060" obs_ratio="99.48"/>
+<mask elevation="10 degrees" obs_expected="32162" obs_have="32155" obs_ratio="99.98"/>
+<mask elevation="15 degrees" obs_expected="26549" obs_have="26549" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 03:41:02 2026" level="3">
+<file_statistics latency="00:03:09" size="29416937" time_creation="Thu Jan 1 03:06:02 2026" time_modification="Thu Jan 1 03:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 02:00:00 2026" epoch_last="Thu Jan 1 02:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43285" obs_have="43060" obs_ratio="99.48"/>
+<mask elevation="10 degrees" obs_expected="32162" obs_have="32155" obs_ratio="99.98"/>
+<mask elevation="15 degrees" obs_expected="26549" obs_have="26549" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 05:26:02 2026" level="3">
+<file_statistics latency="00:03:09" size="29416937" time_creation="Thu Jan 1 03:06:02 2026" time_modification="Thu Jan 1 03:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 02:00:00 2026" epoch_last="Thu Jan 1 02:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43285" obs_have="43060" obs_ratio="99.48"/>
+<mask elevation="10 degrees" obs_expected="32162" obs_have="32155" obs_ratio="99.98"/>
+<mask elevation="15 degrees" obs_expected="26549" obs_have="26549" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:09" size="29416937" time_creation="Thu Jan 1 03:06:02 2026" time_modification="Thu Jan 1 03:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 02:00:00 2026" epoch_last="Thu Jan 1 02:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43285" obs_have="43060" obs_ratio="99.48"/>
+<mask elevation="10 degrees" obs_expected="32162" obs_have="32155" obs_ratio="99.98"/>
+<mask elevation="15 degrees" obs_expected="26549" obs_have="26549" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="00:03:09" size="29416937" time_creation="Wed Jan 28 01:50:08 2026" time_modification="Thu Jan 1 03:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 02:00:00 2026" epoch_last="Thu Jan 1 02:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43285" obs_have="43060" obs_ratio="99.48"/>
+<mask elevation="10 degrees" obs_expected="32162" obs_have="32155" obs_ratio="99.98"/>
+<mask elevation="15 degrees" obs_expected="26549" obs_have="26549" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001d.26o" error="0" interval="1" session="d">
+<control date="Thu Jan 1 04:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="31555504" time_creation="Thu Jan 1 04:06:02 2026" time_modification="Thu Jan 1 04:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 03:00:00 2026" epoch_last="Thu Jan 1 03:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43851" obs_have="43724" obs_ratio="99.71"/>
+<mask elevation="10 degrees" obs_expected="32854" obs_have="32854" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28899" obs_have="28899" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 04:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="31555504" time_creation="Thu Jan 1 04:06:02 2026" time_modification="Thu Jan 1 04:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 03:00:00 2026" epoch_last="Thu Jan 1 03:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43851" obs_have="43724" obs_ratio="99.71"/>
+<mask elevation="10 degrees" obs_expected="32854" obs_have="32854" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28899" obs_have="28899" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 06:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="31555504" time_creation="Thu Jan 1 04:06:02 2026" time_modification="Thu Jan 1 04:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 03:00:00 2026" epoch_last="Thu Jan 1 03:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43851" obs_have="43724" obs_ratio="99.71"/>
+<mask elevation="10 degrees" obs_expected="32854" obs_have="32854" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28899" obs_have="28899" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="31555504" time_creation="Thu Jan 1 04:06:02 2026" time_modification="Thu Jan 1 04:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 03:00:00 2026" epoch_last="Thu Jan 1 03:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43851" obs_have="43724" obs_ratio="99.71"/>
+<mask elevation="10 degrees" obs_expected="32854" obs_have="32854" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28899" obs_have="28899" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 23:15:37" size="31555504" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:15:36 2026"/>
+<observations epoch_first="Thu Jan 1 03:00:00 2026" epoch_last="Thu Jan 1 03:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="43851" obs_have="43724" obs_ratio="99.71"/>
+<mask elevation="10 degrees" obs_expected="32854" obs_have="32854" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28899" obs_have="28899" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001e.26o" error="0" interval="1" session="e">
+<control date="Thu Jan 1 05:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30738745" time_creation="Thu Jan 1 05:06:02 2026" time_modification="Thu Jan 1 05:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 04:00:00 2026" epoch_last="Thu Jan 1 04:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41286" obs_have="41248" obs_ratio="99.91"/>
+<mask elevation="10 degrees" obs_expected="34972" obs_have="34972" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="30236" obs_have="30236" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 05:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="30738745" time_creation="Thu Jan 1 05:06:02 2026" time_modification="Thu Jan 1 05:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 04:00:00 2026" epoch_last="Thu Jan 1 04:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41286" obs_have="41248" obs_ratio="99.91"/>
+<mask elevation="10 degrees" obs_expected="34972" obs_have="34972" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="30236" obs_have="30236" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 07:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30738745" time_creation="Thu Jan 1 05:06:02 2026" time_modification="Thu Jan 1 05:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 04:00:00 2026" epoch_last="Thu Jan 1 04:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41286" obs_have="41248" obs_ratio="99.91"/>
+<mask elevation="10 degrees" obs_expected="34972" obs_have="34972" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="30236" obs_have="30236" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="30738745" time_creation="Thu Jan 1 05:06:02 2026" time_modification="Thu Jan 1 05:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 04:00:00 2026" epoch_last="Thu Jan 1 04:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41286" obs_have="41248" obs_ratio="99.91"/>
+<mask elevation="10 degrees" obs_expected="34972" obs_have="34972" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="30236" obs_have="30236" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 22:14:13" size="30738745" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:14:12 2026"/>
+<observations epoch_first="Thu Jan 1 04:00:00 2026" epoch_last="Thu Jan 1 04:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41286" obs_have="41248" obs_ratio="99.91"/>
+<mask elevation="10 degrees" obs_expected="34972" obs_have="34972" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="30236" obs_have="30236" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001f.26o" error="0" interval="1" session="f">
+<control date="Thu Jan 1 06:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29808102" time_creation="Thu Jan 1 06:06:02 2026" time_modification="Thu Jan 1 06:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 05:00:00 2026" epoch_last="Thu Jan 1 05:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="39527" obs_have="39416" obs_ratio="99.72"/>
+<mask elevation="10 degrees" obs_expected="32661" obs_have="32661" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29544" obs_have="29544" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 06:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29808102" time_creation="Thu Jan 1 06:06:02 2026" time_modification="Thu Jan 1 06:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 05:00:00 2026" epoch_last="Thu Jan 1 05:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="39527" obs_have="39416" obs_ratio="99.72"/>
+<mask elevation="10 degrees" obs_expected="32661" obs_have="32661" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29544" obs_have="29544" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 08:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29808102" time_creation="Thu Jan 1 06:06:02 2026" time_modification="Thu Jan 1 06:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 05:00:00 2026" epoch_last="Thu Jan 1 05:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="39527" obs_have="39416" obs_ratio="99.72"/>
+<mask elevation="10 degrees" obs_expected="32661" obs_have="32661" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29544" obs_have="29544" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="29808102" time_creation="Thu Jan 1 06:06:02 2026" time_modification="Thu Jan 1 06:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 05:00:00 2026" epoch_last="Thu Jan 1 05:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="39527" obs_have="39416" obs_ratio="99.72"/>
+<mask elevation="10 degrees" obs_expected="32661" obs_have="32661" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29544" obs_have="29544" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 21:14:29" size="29808102" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:14:28 2026"/>
+<observations epoch_first="Thu Jan 1 05:00:00 2026" epoch_last="Thu Jan 1 05:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="39527" obs_have="39416" obs_ratio="99.72"/>
+<mask elevation="10 degrees" obs_expected="32661" obs_have="32661" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29544" obs_have="29544" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001g.26o" error="0" interval="1" session="g">
+<control date="Thu Jan 1 07:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="31630695" time_creation="Thu Jan 1 07:06:02 2026" time_modification="Thu Jan 1 07:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 06:00:00 2026" epoch_last="Thu Jan 1 06:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41938" obs_have="41904" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="36347" obs_have="36347" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32810" obs_have="32810" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 07:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="31630695" time_creation="Thu Jan 1 07:06:02 2026" time_modification="Thu Jan 1 07:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 06:00:00 2026" epoch_last="Thu Jan 1 06:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41938" obs_have="41904" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="36347" obs_have="36347" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32810" obs_have="32810" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 09:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="31630695" time_creation="Thu Jan 1 07:06:02 2026" time_modification="Thu Jan 1 07:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 06:00:00 2026" epoch_last="Thu Jan 1 06:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41938" obs_have="41904" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="36347" obs_have="36347" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32810" obs_have="32810" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="31630695" time_creation="Thu Jan 1 07:06:02 2026" time_modification="Thu Jan 1 07:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 06:00:00 2026" epoch_last="Thu Jan 1 06:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41938" obs_have="41904" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="36347" obs_have="36347" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32810" obs_have="32810" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 20:11:38" size="31630695" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:11:37 2026"/>
+<observations epoch_first="Thu Jan 1 06:00:00 2026" epoch_last="Thu Jan 1 06:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41938" obs_have="41904" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="36347" obs_have="36347" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32810" obs_have="32810" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001h.26o" error="0" interval="1" session="h">
+<control date="Thu Jan 1 08:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30024003" time_creation="Thu Jan 1 08:06:01 2026" time_modification="Thu Jan 1 08:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 07:00:00 2026" epoch_last="Thu Jan 1 07:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="46403" obs_have="46325" obs_ratio="99.83"/>
+<mask elevation="10 degrees" obs_expected="37904" obs_have="37904" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32223" obs_have="32223" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 08:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30024003" time_creation="Thu Jan 1 08:06:01 2026" time_modification="Thu Jan 1 08:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 07:00:00 2026" epoch_last="Thu Jan 1 07:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="46403" obs_have="46325" obs_ratio="99.83"/>
+<mask elevation="10 degrees" obs_expected="37904" obs_have="37904" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32223" obs_have="32223" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 10:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30024003" time_creation="Thu Jan 1 08:06:01 2026" time_modification="Thu Jan 1 08:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 07:00:00 2026" epoch_last="Thu Jan 1 07:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="46403" obs_have="46325" obs_ratio="99.83"/>
+<mask elevation="10 degrees" obs_expected="37904" obs_have="37904" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32223" obs_have="32223" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="30024003" time_creation="Thu Jan 1 08:06:01 2026" time_modification="Thu Jan 1 08:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 07:00:00 2026" epoch_last="Thu Jan 1 07:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="46403" obs_have="46325" obs_ratio="99.83"/>
+<mask elevation="10 degrees" obs_expected="37904" obs_have="37904" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32223" obs_have="32223" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 19:12:38" size="30024003" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:12:37 2026"/>
+<observations epoch_first="Thu Jan 1 07:00:00 2026" epoch_last="Thu Jan 1 07:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="46403" obs_have="46325" obs_ratio="99.83"/>
+<mask elevation="10 degrees" obs_expected="37904" obs_have="37904" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="32223" obs_have="32223" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001i.26o" error="0" interval="1" session="i">
+<control date="Thu Jan 1 09:16:03 2026" level="3">
+<file_statistics latency="00:03:07" size="28735898" time_creation="Thu Jan 1 09:06:02 2026" time_modification="Thu Jan 1 09:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 08:00:00 2026" epoch_last="Thu Jan 1 08:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41745" obs_have="41692" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="33953" obs_have="33953" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29038" obs_have="29038" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 09:41:02 2026" level="3">
+<file_statistics latency="00:03:07" size="28735898" time_creation="Thu Jan 1 09:06:02 2026" time_modification="Thu Jan 1 09:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 08:00:00 2026" epoch_last="Thu Jan 1 08:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41745" obs_have="41692" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="33953" obs_have="33953" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29038" obs_have="29038" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 11:26:03 2026" level="3">
+<file_statistics latency="00:03:07" size="28735898" time_creation="Thu Jan 1 09:06:02 2026" time_modification="Thu Jan 1 09:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 08:00:00 2026" epoch_last="Thu Jan 1 08:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41745" obs_have="41692" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="33953" obs_have="33953" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29038" obs_have="29038" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:07" size="28735898" time_creation="Thu Jan 1 09:06:02 2026" time_modification="Thu Jan 1 09:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 08:00:00 2026" epoch_last="Thu Jan 1 08:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41745" obs_have="41692" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="33953" obs_have="33953" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29038" obs_have="29038" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 18:10:55" size="28735898" time_creation="Wed Jan 28 01:50:10 2026" time_modification="Sun Jan 4 03:10:54 2026"/>
+<observations epoch_first="Thu Jan 1 08:00:00 2026" epoch_last="Thu Jan 1 08:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41745" obs_have="41692" obs_ratio="99.87"/>
+<mask elevation="10 degrees" obs_expected="33953" obs_have="33953" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29038" obs_have="29038" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001j.26o" error="0" interval="1" session="j">
+<control date="Thu Jan 1 10:16:02 2026" level="3">
+<file_statistics latency="00:03:09" size="30562921" time_creation="Thu Jan 1 10:06:01 2026" time_modification="Thu Jan 1 10:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 09:00:00 2026" epoch_last="Thu Jan 1 09:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37198" obs_have="37105" obs_ratio="99.75"/>
+<mask elevation="10 degrees" obs_expected="36000" obs_have="36000" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="35091" obs_have="35091" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 10:41:03 2026" level="3">
+<file_statistics latency="00:03:09" size="30562921" time_creation="Thu Jan 1 10:06:01 2026" time_modification="Thu Jan 1 10:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 09:00:00 2026" epoch_last="Thu Jan 1 09:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37198" obs_have="37105" obs_ratio="99.75"/>
+<mask elevation="10 degrees" obs_expected="36000" obs_have="36000" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="35091" obs_have="35091" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 12:26:03 2026" level="3">
+<file_statistics latency="00:03:09" size="30562921" time_creation="Thu Jan 1 10:06:01 2026" time_modification="Thu Jan 1 10:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 09:00:00 2026" epoch_last="Thu Jan 1 09:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37198" obs_have="37105" obs_ratio="99.75"/>
+<mask elevation="10 degrees" obs_expected="36000" obs_have="36000" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="35091" obs_have="35091" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:09" size="30562921" time_creation="Thu Jan 1 10:06:01 2026" time_modification="Thu Jan 1 10:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 09:00:00 2026" epoch_last="Thu Jan 1 09:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37198" obs_have="37105" obs_ratio="99.75"/>
+<mask elevation="10 degrees" obs_expected="36000" obs_have="36000" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="35091" obs_have="35091" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 17:14:26" size="30562921" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:14:25 2026"/>
+<observations epoch_first="Thu Jan 1 09:00:00 2026" epoch_last="Thu Jan 1 09:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37198" obs_have="37105" obs_ratio="99.75"/>
+<mask elevation="10 degrees" obs_expected="36000" obs_have="36000" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="35091" obs_have="35091" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001k.26o" error="0" interval="1" session="k">
+<control date="Thu Jan 1 11:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="28286569" time_creation="Thu Jan 1 11:06:02 2026" time_modification="Thu Jan 1 11:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 10:00:00 2026" epoch_last="Thu Jan 1 10:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41379" obs_have="41379" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35885" obs_have="35885" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="31481" obs_have="31481" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 11:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="28286569" time_creation="Thu Jan 1 11:06:02 2026" time_modification="Thu Jan 1 11:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 10:00:00 2026" epoch_last="Thu Jan 1 10:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41379" obs_have="41379" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35885" obs_have="35885" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="31481" obs_have="31481" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 13:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="28286569" time_creation="Thu Jan 1 11:06:02 2026" time_modification="Thu Jan 1 11:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 10:00:00 2026" epoch_last="Thu Jan 1 10:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41379" obs_have="41379" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35885" obs_have="35885" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="31481" obs_have="31481" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="28286569" time_creation="Thu Jan 1 11:06:02 2026" time_modification="Thu Jan 1 11:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 10:00:00 2026" epoch_last="Thu Jan 1 10:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41379" obs_have="41379" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35885" obs_have="35885" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="31481" obs_have="31481" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 16:15:52" size="28286569" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:15:51 2026"/>
+<observations epoch_first="Thu Jan 1 10:00:00 2026" epoch_last="Thu Jan 1 10:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41379" obs_have="41379" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="35885" obs_have="35885" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="31481" obs_have="31481" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001l.26o" error="0" interval="1" session="l">
+<control date="Thu Jan 1 12:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="27956314" time_creation="Thu Jan 1 12:06:02 2026" time_modification="Thu Jan 1 12:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 11:00:00 2026" epoch_last="Thu Jan 1 11:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36543" obs_have="36485" obs_ratio="99.84"/>
+<mask elevation="10 degrees" obs_expected="27139" obs_have="27139" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="21890" obs_have="21890" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 12:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="27956314" time_creation="Thu Jan 1 12:06:02 2026" time_modification="Thu Jan 1 12:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 11:00:00 2026" epoch_last="Thu Jan 1 11:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36543" obs_have="36485" obs_ratio="99.84"/>
+<mask elevation="10 degrees" obs_expected="27139" obs_have="27139" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="21890" obs_have="21890" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 14:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="27956314" time_creation="Thu Jan 1 12:06:02 2026" time_modification="Thu Jan 1 12:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 11:00:00 2026" epoch_last="Thu Jan 1 11:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36543" obs_have="36485" obs_ratio="99.84"/>
+<mask elevation="10 degrees" obs_expected="27139" obs_have="27139" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="21890" obs_have="21890" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="27956314" time_creation="Thu Jan 1 12:06:02 2026" time_modification="Thu Jan 1 12:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 11:00:00 2026" epoch_last="Thu Jan 1 11:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36543" obs_have="36485" obs_ratio="99.84"/>
+<mask elevation="10 degrees" obs_expected="27139" obs_have="27139" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="21890" obs_have="21890" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 15:13:51" size="27956314" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:13:50 2026"/>
+<observations epoch_first="Thu Jan 1 11:00:00 2026" epoch_last="Thu Jan 1 11:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36543" obs_have="36485" obs_ratio="99.84"/>
+<mask elevation="10 degrees" obs_expected="27139" obs_have="27139" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="21890" obs_have="21890" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001m.26o" error="0" interval="1" session="m">
+<control date="Thu Jan 1 13:16:02 2026" level="3">
+<file_statistics latency="00:03:09" size="29628560" time_creation="Thu Jan 1 13:06:02 2026" time_modification="Thu Jan 1 13:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 12:00:00 2026" epoch_last="Thu Jan 1 12:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33510" obs_have="33510" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="30377" obs_have="30377" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28490" obs_have="28490" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 13:41:02 2026" level="3">
+<file_statistics latency="00:03:09" size="29628560" time_creation="Thu Jan 1 13:06:02 2026" time_modification="Thu Jan 1 13:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 12:00:00 2026" epoch_last="Thu Jan 1 12:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33510" obs_have="33510" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="30377" obs_have="30377" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28490" obs_have="28490" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 15:26:03 2026" level="3">
+<file_statistics latency="00:03:09" size="29628560" time_creation="Thu Jan 1 13:06:02 2026" time_modification="Thu Jan 1 13:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 12:00:00 2026" epoch_last="Thu Jan 1 12:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33510" obs_have="33510" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="30377" obs_have="30377" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28490" obs_have="28490" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:09" size="29628560" time_creation="Thu Jan 1 13:06:02 2026" time_modification="Thu Jan 1 13:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 12:00:00 2026" epoch_last="Thu Jan 1 12:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33510" obs_have="33510" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="30377" obs_have="30377" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28490" obs_have="28490" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 14:17:24" size="29628560" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:17:23 2026"/>
+<observations epoch_first="Thu Jan 1 12:00:00 2026" epoch_last="Thu Jan 1 12:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33510" obs_have="33510" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="30377" obs_have="30377" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="28490" obs_have="28490" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001n.26o" error="0" interval="1" session="n">
+<control date="Thu Jan 1 14:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30597292" time_creation="Thu Jan 1 14:06:03 2026" time_modification="Thu Jan 1 14:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 13:00:00 2026" epoch_last="Thu Jan 1 13:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34121" obs_have="34121" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="29473" obs_have="29473" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26117" obs_have="26117" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 14:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30597292" time_creation="Thu Jan 1 14:06:03 2026" time_modification="Thu Jan 1 14:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 13:00:00 2026" epoch_last="Thu Jan 1 13:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34121" obs_have="34121" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="29473" obs_have="29473" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26117" obs_have="26117" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 16:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30597292" time_creation="Thu Jan 1 14:06:03 2026" time_modification="Thu Jan 1 14:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 13:00:00 2026" epoch_last="Thu Jan 1 13:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34121" obs_have="34121" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="29473" obs_have="29473" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26117" obs_have="26117" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="30597292" time_creation="Thu Jan 1 14:06:03 2026" time_modification="Thu Jan 1 14:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 13:00:00 2026" epoch_last="Thu Jan 1 13:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34121" obs_have="34121" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="29473" obs_have="29473" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26117" obs_have="26117" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 13:16:03" size="30597292" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:16:02 2026"/>
+<observations epoch_first="Thu Jan 1 13:00:00 2026" epoch_last="Thu Jan 1 13:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34121" obs_have="34121" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="29473" obs_have="29473" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26117" obs_have="26117" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001o.26o" error="0" interval="1" session="o">
+<control date="Thu Jan 1 15:16:03 2026" level="3">
+<file_statistics latency="00:03:09" size="33776098" time_creation="Thu Jan 1 15:06:03 2026" time_modification="Thu Jan 1 15:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 14:00:00 2026" epoch_last="Thu Jan 1 14:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41151" obs_have="41117" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="30860" obs_have="30860" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25971" obs_have="25971" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 15:41:03 2026" level="3">
+<file_statistics latency="00:03:09" size="33776098" time_creation="Thu Jan 1 15:06:03 2026" time_modification="Thu Jan 1 15:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 14:00:00 2026" epoch_last="Thu Jan 1 14:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41151" obs_have="41117" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="30860" obs_have="30860" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25971" obs_have="25971" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 17:26:03 2026" level="3">
+<file_statistics latency="00:03:09" size="33776098" time_creation="Thu Jan 1 15:06:03 2026" time_modification="Thu Jan 1 15:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 14:00:00 2026" epoch_last="Thu Jan 1 14:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41151" obs_have="41117" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="30860" obs_have="30860" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25971" obs_have="25971" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:09" size="33776098" time_creation="Thu Jan 1 15:06:03 2026" time_modification="Thu Jan 1 15:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 14:00:00 2026" epoch_last="Thu Jan 1 14:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41151" obs_have="41117" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="30860" obs_have="30860" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25971" obs_have="25971" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 12:13:04" size="33776098" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:13:03 2026"/>
+<observations epoch_first="Thu Jan 1 14:00:00 2026" epoch_last="Thu Jan 1 14:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41151" obs_have="41117" obs_ratio="99.92"/>
+<mask elevation="10 degrees" obs_expected="30860" obs_have="30860" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25971" obs_have="25971" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001p.26o" error="0" interval="1" session="p">
+<control date="Thu Jan 1 16:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="33545015" time_creation="Thu Jan 1 16:06:02 2026" time_modification="Thu Jan 1 16:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 15:00:00 2026" epoch_last="Thu Jan 1 15:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="44544" obs_have="44543" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="38523" obs_have="38523" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27463" obs_have="27463" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 16:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="33545015" time_creation="Thu Jan 1 16:06:02 2026" time_modification="Thu Jan 1 16:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 15:00:00 2026" epoch_last="Thu Jan 1 15:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="44544" obs_have="44543" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="38523" obs_have="38523" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27463" obs_have="27463" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 18:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="33545015" time_creation="Thu Jan 1 16:06:02 2026" time_modification="Thu Jan 1 16:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 15:00:00 2026" epoch_last="Thu Jan 1 15:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="44544" obs_have="44543" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="38523" obs_have="38523" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27463" obs_have="27463" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="33545015" time_creation="Thu Jan 1 16:06:02 2026" time_modification="Thu Jan 1 16:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 15:00:00 2026" epoch_last="Thu Jan 1 15:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="44544" obs_have="44543" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="38523" obs_have="38523" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27463" obs_have="27463" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 11:16:23" size="33545015" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:16:22 2026"/>
+<observations epoch_first="Thu Jan 1 15:00:00 2026" epoch_last="Thu Jan 1 15:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="44544" obs_have="44543" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="38523" obs_have="38523" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27463" obs_have="27463" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001q.26o" error="0" interval="1" session="q">
+<control date="Thu Jan 1 17:16:02 2026" level="3">
+<file_statistics latency="00:03:09" size="30342583" time_creation="Thu Jan 1 17:06:02 2026" time_modification="Thu Jan 1 17:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 16:00:00 2026" epoch_last="Thu Jan 1 16:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="42909" obs_have="42908" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31584" obs_have="31584" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27658" obs_have="27658" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 17:41:02 2026" level="3">
+<file_statistics latency="00:03:09" size="30342583" time_creation="Thu Jan 1 17:06:02 2026" time_modification="Thu Jan 1 17:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 16:00:00 2026" epoch_last="Thu Jan 1 16:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="42909" obs_have="42908" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31584" obs_have="31584" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27658" obs_have="27658" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 19:26:02 2026" level="3">
+<file_statistics latency="00:03:09" size="30342583" time_creation="Thu Jan 1 17:06:02 2026" time_modification="Thu Jan 1 17:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 16:00:00 2026" epoch_last="Thu Jan 1 16:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="42909" obs_have="42908" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31584" obs_have="31584" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27658" obs_have="27658" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:09" size="30342583" time_creation="Thu Jan 1 17:06:02 2026" time_modification="Thu Jan 1 17:03:08 2026"/>
+<observations epoch_first="Thu Jan 1 16:00:00 2026" epoch_last="Thu Jan 1 16:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="42909" obs_have="42908" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31584" obs_have="31584" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27658" obs_have="27658" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 10:10:06" size="30342583" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:10:05 2026"/>
+<observations epoch_first="Thu Jan 1 16:00:00 2026" epoch_last="Thu Jan 1 16:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="42909" obs_have="42908" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="31584" obs_have="31584" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="27658" obs_have="27658" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001r.26o" error="0" interval="1" session="r">
+<control date="Thu Jan 1 18:16:02 2026" level="3">
+<file_statistics latency="00:03:07" size="26173988" time_creation="Thu Jan 1 18:06:03 2026" time_modification="Thu Jan 1 18:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 17:00:00 2026" epoch_last="Thu Jan 1 17:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36901" obs_have="36785" obs_ratio="99.69"/>
+<mask elevation="10 degrees" obs_expected="27976" obs_have="27976" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="23408" obs_have="23408" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 18:41:02 2026" level="3">
+<file_statistics latency="00:03:07" size="26173988" time_creation="Thu Jan 1 18:06:03 2026" time_modification="Thu Jan 1 18:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 17:00:00 2026" epoch_last="Thu Jan 1 17:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36901" obs_have="36785" obs_ratio="99.69"/>
+<mask elevation="10 degrees" obs_expected="27976" obs_have="27976" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="23408" obs_have="23408" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 20:26:02 2026" level="3">
+<file_statistics latency="00:03:07" size="26173988" time_creation="Thu Jan 1 18:06:03 2026" time_modification="Thu Jan 1 18:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 17:00:00 2026" epoch_last="Thu Jan 1 17:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36901" obs_have="36785" obs_ratio="99.69"/>
+<mask elevation="10 degrees" obs_expected="27976" obs_have="27976" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="23408" obs_have="23408" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:07" size="26173988" time_creation="Thu Jan 1 18:06:03 2026" time_modification="Thu Jan 1 18:03:06 2026"/>
+<observations epoch_first="Thu Jan 1 17:00:00 2026" epoch_last="Thu Jan 1 17:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36901" obs_have="36785" obs_ratio="99.69"/>
+<mask elevation="10 degrees" obs_expected="27976" obs_have="27976" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="23408" obs_have="23408" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 09:16:46" size="26173988" time_creation="Wed Jan 28 01:50:11 2026" time_modification="Sun Jan 4 03:16:45 2026"/>
+<observations epoch_first="Thu Jan 1 17:00:00 2026" epoch_last="Thu Jan 1 17:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="36901" obs_have="36785" obs_ratio="99.69"/>
+<mask elevation="10 degrees" obs_expected="27976" obs_have="27976" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="23408" obs_have="23408" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001s.26o" error="0" interval="1" session="s">
+<control date="Thu Jan 1 19:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="25961793" time_creation="Thu Jan 1 19:06:03 2026" time_modification="Thu Jan 1 19:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 18:00:00 2026" epoch_last="Thu Jan 1 18:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38528" obs_have="38448" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="31382" obs_have="31382" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25769" obs_have="25769" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 19:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="25961793" time_creation="Thu Jan 1 19:06:03 2026" time_modification="Thu Jan 1 19:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 18:00:00 2026" epoch_last="Thu Jan 1 18:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38528" obs_have="38448" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="31382" obs_have="31382" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25769" obs_have="25769" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 21:26:03 2026" level="3">
+<file_statistics latency="00:03:08" size="25961793" time_creation="Thu Jan 1 19:06:03 2026" time_modification="Thu Jan 1 19:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 18:00:00 2026" epoch_last="Thu Jan 1 18:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38528" obs_have="38448" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="31382" obs_have="31382" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25769" obs_have="25769" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="25961793" time_creation="Thu Jan 1 19:06:03 2026" time_modification="Thu Jan 1 19:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 18:00:00 2026" epoch_last="Thu Jan 1 18:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38528" obs_have="38448" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="31382" obs_have="31382" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25769" obs_have="25769" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 08:15:15" size="25961793" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:15:14 2026"/>
+<observations epoch_first="Thu Jan 1 18:00:00 2026" epoch_last="Thu Jan 1 18:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="38528" obs_have="38448" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="31382" obs_have="31382" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="25769" obs_have="25769" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001t.26o" error="0" interval="1" session="t">
+<control date="Thu Jan 1 20:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29712218" time_creation="Thu Jan 1 20:06:03 2026" time_modification="Thu Jan 1 20:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 19:00:00 2026" epoch_last="Thu Jan 1 19:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41311" obs_have="41281" obs_ratio="99.93"/>
+<mask elevation="10 degrees" obs_expected="28558" obs_have="28558" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24128" obs_have="24128" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 20:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29712218" time_creation="Thu Jan 1 20:06:03 2026" time_modification="Thu Jan 1 20:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 19:00:00 2026" epoch_last="Thu Jan 1 19:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41311" obs_have="41281" obs_ratio="99.93"/>
+<mask elevation="10 degrees" obs_expected="28558" obs_have="28558" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24128" obs_have="24128" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 22:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29712218" time_creation="Thu Jan 1 20:06:03 2026" time_modification="Thu Jan 1 20:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 19:00:00 2026" epoch_last="Thu Jan 1 19:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41311" obs_have="41281" obs_ratio="99.93"/>
+<mask elevation="10 degrees" obs_expected="28558" obs_have="28558" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24128" obs_have="24128" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="29712218" time_creation="Thu Jan 1 20:06:03 2026" time_modification="Thu Jan 1 20:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 19:00:00 2026" epoch_last="Thu Jan 1 19:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41311" obs_have="41281" obs_ratio="99.93"/>
+<mask elevation="10 degrees" obs_expected="28558" obs_have="28558" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24128" obs_have="24128" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 07:14:59" size="29712218" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:14:58 2026"/>
+<observations epoch_first="Thu Jan 1 19:00:00 2026" epoch_last="Thu Jan 1 19:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41311" obs_have="41281" obs_ratio="99.93"/>
+<mask elevation="10 degrees" obs_expected="28558" obs_have="28558" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24128" obs_have="24128" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001u.26o" error="0" interval="1" session="u">
+<control date="Thu Jan 1 21:16:03 2026" level="3">
+<file_statistics latency="00:03:10" size="30057286" time_creation="Thu Jan 1 21:06:03 2026" time_modification="Thu Jan 1 21:03:09 2026"/>
+<observations epoch_first="Thu Jan 1 20:00:00 2026" epoch_last="Thu Jan 1 20:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33978" obs_have="33906" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="28417" obs_have="28417" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24451" obs_have="24451" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 21:41:03 2026" level="3">
+<file_statistics latency="00:03:10" size="30057286" time_creation="Thu Jan 1 21:06:03 2026" time_modification="Thu Jan 1 21:03:09 2026"/>
+<observations epoch_first="Thu Jan 1 20:00:00 2026" epoch_last="Thu Jan 1 20:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33978" obs_have="33906" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="28417" obs_have="28417" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24451" obs_have="24451" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 23:26:02 2026" level="3">
+<file_statistics latency="00:03:10" size="30057286" time_creation="Thu Jan 1 21:06:03 2026" time_modification="Thu Jan 1 21:03:09 2026"/>
+<observations epoch_first="Thu Jan 1 20:00:00 2026" epoch_last="Thu Jan 1 20:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33978" obs_have="33906" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="28417" obs_have="28417" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24451" obs_have="24451" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:10" size="30057286" time_creation="Thu Jan 1 21:06:03 2026" time_modification="Thu Jan 1 21:03:09 2026"/>
+<observations epoch_first="Thu Jan 1 20:00:00 2026" epoch_last="Thu Jan 1 20:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33978" obs_have="33906" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="28417" obs_have="28417" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24451" obs_have="24451" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 06:16:24" size="30057286" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:16:23 2026"/>
+<observations epoch_first="Thu Jan 1 20:00:00 2026" epoch_last="Thu Jan 1 20:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="33978" obs_have="33906" obs_ratio="99.79"/>
+<mask elevation="10 degrees" obs_expected="28417" obs_have="28417" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="24451" obs_have="24451" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001v.26o" error="0" interval="1" session="v">
+<control date="Thu Jan 1 22:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29634802" time_creation="Thu Jan 1 22:06:05 2026" time_modification="Thu Jan 1 22:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 21:00:00 2026" epoch_last="Thu Jan 1 21:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34267" obs_have="34245" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31015" obs_have="31015" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29075" obs_have="29075" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 22:41:03 2026" level="3">
+<file_statistics latency="00:03:08" size="29634802" time_creation="Thu Jan 1 22:06:05 2026" time_modification="Thu Jan 1 22:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 21:00:00 2026" epoch_last="Thu Jan 1 21:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34267" obs_have="34245" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31015" obs_have="31015" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29075" obs_have="29075" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 00:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="29634802" time_creation="Thu Jan 1 22:06:05 2026" time_modification="Thu Jan 1 22:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 21:00:00 2026" epoch_last="Thu Jan 1 21:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34267" obs_have="34245" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31015" obs_have="31015" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29075" obs_have="29075" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="29634802" time_creation="Thu Jan 1 22:06:05 2026" time_modification="Thu Jan 1 22:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 21:00:00 2026" epoch_last="Thu Jan 1 21:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34267" obs_have="34245" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31015" obs_have="31015" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29075" obs_have="29075" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 05:11:52" size="29634802" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:11:51 2026"/>
+<observations epoch_first="Thu Jan 1 21:00:00 2026" epoch_last="Thu Jan 1 21:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="34267" obs_have="34245" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31015" obs_have="31015" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29075" obs_have="29075" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001w.26o" error="0" interval="1" session="w">
+<control date="Thu Jan 1 23:16:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30051701" time_creation="Thu Jan 1 23:06:04 2026" time_modification="Thu Jan 1 23:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 22:00:00 2026" epoch_last="Thu Jan 1 22:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37262" obs_have="37240" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31845" obs_have="31845" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29100" obs_have="29100" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Thu Jan 1 23:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30051701" time_creation="Thu Jan 1 23:06:04 2026" time_modification="Thu Jan 1 23:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 22:00:00 2026" epoch_last="Thu Jan 1 22:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37262" obs_have="37240" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31845" obs_have="31845" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29100" obs_have="29100" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 01:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="30051701" time_creation="Thu Jan 1 23:06:04 2026" time_modification="Thu Jan 1 23:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 22:00:00 2026" epoch_last="Thu Jan 1 22:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37262" obs_have="37240" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31845" obs_have="31845" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29100" obs_have="29100" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="30051701" time_creation="Thu Jan 1 23:06:04 2026" time_modification="Thu Jan 1 23:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 22:00:00 2026" epoch_last="Thu Jan 1 22:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37262" obs_have="37240" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31845" obs_have="31845" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29100" obs_have="29100" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 04:17:25" size="30051701" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:17:24 2026"/>
+<observations epoch_first="Thu Jan 1 22:00:00 2026" epoch_last="Thu Jan 1 22:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="37262" obs_have="37240" obs_ratio="99.94"/>
+<mask elevation="10 degrees" obs_expected="31845" obs_have="31845" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="29100" obs_have="29100" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+<file name="/aaer001x.26o" error="0" interval="1" session="x">
+<control date="Fri Jan 2 00:16:03 2026" level="3">
+<file_statistics latency="00:03:08" size="31841646" time_creation="Fri Jan 2 00:06:03 2026" time_modification="Fri Jan 2 00:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 23:00:00 2026" epoch_last="Thu Jan 1 23:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41849" obs_have="41848" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="34106" obs_have="34106" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26745" obs_have="26745" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 00:41:02 2026" level="3">
+<file_statistics latency="00:03:08" size="31841646" time_creation="Fri Jan 2 00:06:03 2026" time_modification="Fri Jan 2 00:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 23:00:00 2026" epoch_last="Thu Jan 1 23:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41849" obs_have="41848" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="34106" obs_have="34106" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26745" obs_have="26745" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 02:26:02 2026" level="3">
+<file_statistics latency="00:03:08" size="31841646" time_creation="Fri Jan 2 00:06:03 2026" time_modification="Fri Jan 2 00:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 23:00:00 2026" epoch_last="Thu Jan 1 23:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41849" obs_have="41848" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="34106" obs_have="34106" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26745" obs_have="26745" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Fri Jan 2 16:26:24 2026" level="3">
+<file_statistics latency="00:03:08" size="31841646" time_creation="Fri Jan 2 00:06:03 2026" time_modification="Fri Jan 2 00:03:07 2026"/>
+<observations epoch_first="Thu Jan 1 23:00:00 2026" epoch_last="Thu Jan 1 23:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41849" obs_have="41848" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="34106" obs_have="34106" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26745" obs_have="26745" obs_ratio="100.00"/>
+</observations>
+</control>
+<control date="Sat Jan 31 02:25:46 2026" level="3">
+<file_statistics latency="2 day(s) 03:13:51" size="31841646" time_creation="Wed Jan 28 01:50:12 2026" time_modification="Sun Jan 4 03:13:50 2026"/>
+<observations epoch_first="Thu Jan 1 23:00:00 2026" epoch_last="Thu Jan 1 23:59:59 2026" epochs="3600" epochs_ratio="100.00">
+<mask elevation="03 degrees" obs_expected="41849" obs_have="41848" obs_ratio="100.00"/>
+<mask elevation="10 degrees" obs_expected="34106" obs_have="34106" obs_ratio="100.00"/>
+<mask elevation="15 degrees" obs_expected="26745" obs_have="26745" obs_ratio="100.00"/>
+</observations>
+</control>
+</file>
+</station>
+</QC>
